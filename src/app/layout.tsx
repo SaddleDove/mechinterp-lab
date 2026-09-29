@@ -4,7 +4,7 @@ import { Sidebar } from '@/components/sidebar';
 
 export const metadata: Metadata = {
   title: {
-    default: 'MechInterp Lab — Mechanistic Interpretability Research Platform',
+    default: 'MechInterp Lab — Mechanistic Interpretability Console (Concept UI)',
     template: '%s | MechInterp Lab',
   },
   description:
